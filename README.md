@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my new [portfolio Website](https://sahilsiddhant.com/)
 
-- 🌱 I’m currently learning **MERN Stack, Blockchain, Data Structure and Algorithms**
+- 🌱 I’m currently learning **MERN Stack, GEN AI, Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sahilsiddhantofficial@gmail.com**
 
-- 💻 Portfolio Link <a href="https://sahilsiddhant.netlify.app/"> **Sahil Siddhant**</a>
+- 💻 Portfolio Link <a href="https://sahilsiddhant.com/"> **Sahil Siddhant**</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PVglCahNNHlqppkDrtX_8Xx_mEpAY43V/view?usp=share_link](https://drive.google.com/file/d/1PVglCahNNHlqppkDrtX_8Xx_mEpAY43V/view?usp=share_link)
 
