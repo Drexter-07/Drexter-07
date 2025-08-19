@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on my new [portfolio Website](https://sahilsiddhant.com/)
 
-- 🌱 I’m currently learning **MERN Stack, GEN AI, Data Structure and Algorithms**
+- 🌱 I’m currently learning **MERN Stack, GEN AI, RAG, Data Structure and Algorithms**
 
-- 👯 I’m looking to collaborate on **new and exciting projects**
+- 👯 I’m looking to collaborate on **new and exciting GEN AI projects**
 
 - 🤝 I’m looking for help with **finding new opportunities**
 
-- 💬 Ask me about **ReactJS, C++, My past projects and experience.**
+- 💬 Ask me about **ReactJS, Gen AI, My past projects and experience.**
 
 - 📫 How to reach me **sahilsiddhantofficial@gmail.com**
 
