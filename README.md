@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **finding new opportunities**
 
-- 💬 Ask me about **ReactJS, Gen AI, My past projects and experience.**
+- 💬 Ask me about **ReactJS, Gen AI, RAG, My past projects and experience.**
 
 - 📫 How to reach me **sahilsiddhantofficial@gmail.com**
 
