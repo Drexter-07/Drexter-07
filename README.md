@@ -22,7 +22,7 @@
 
 - 💻 Portfolio Link <a href="https://sahilsiddhant.com/"> **Sahil Siddhant**</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Qj01QrXfN5IWcyt6fGIp-mQwyUCw0HEF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://sahilsiddhant.com/Sahil_Resume.pdf)
 
 - ⚡ Fun fact **I think I am a good singer ;)**
 
